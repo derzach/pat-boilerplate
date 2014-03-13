@@ -1,3 +1,3 @@
 # PAT Boilerplate
 
-The Sexy and Fast way to create responsive websites!
+The sexy and fast way to create responsive websites!
