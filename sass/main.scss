@@ -1,0 +1,28 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/main.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+
+// setup
+
+@import "imports/vars";
+@import "imports/helpers";
+@import "imports/mixins";
+
+
+// basic stuff
+
+@import "imports/icons";
+@import "imports/typography";
+@import "imports/forms";
+
+
+// page sections
+
+@import "imports/header";
+@import "imports/content";
+@import "imports/footer";
+
+
+// pages

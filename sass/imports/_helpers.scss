@@ -1,0 +1,11 @@
+.full-width {
+	width: 100%;
+}
+
+.nav-horizontal {
+	overflow: hidden;
+	width: 100%;
+	& > li {
+		float: left;
+	}
+}
